@@ -7,7 +7,7 @@
 
 ---
 
-- 👨‍🎓 I'm 18, finishing high school and focused on **Python** and **Cybersecurity**
+- 👨‍🎓 I'm 18, currently starting faculty of systems analysis and development and focused on **Python** and **Cybersecurity**
 - 🌱 Currently improving my **backend development** skills with APIs and modular code
 - 💻 Projects include: task APIs, contact management, library system, and web design
 - 📫 Contact me at: **thiagobsoares3011@gmail.com**
