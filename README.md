@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">An aspiring Cybersecurity and Python developer from Brazil 🇧🇷</h3>
+<img src="https://64.media.tumblr.com/69d78d0952047446fccc9151a82310ea/tumblr_p9jcwjKBOy1timm3bo7_1280.jpg" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Lover🐍;Cybersecurity+Enthusiast🛡️;Always+learning+something+new!&center=true&width=500&height=50" />
