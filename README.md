@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Cybersecurity and Python developer from Brazil 🇧🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Lover🐍;Cybersecurity+Enthusiast🛡️;Always+learning+something+new!&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+dev🐍;Cybersecurity+Enthusiast🛡️;Always+learning+something+new!&center=true&width=500&height=50" />
 </p>
 
 ---
