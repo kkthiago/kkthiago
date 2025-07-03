@@ -9,9 +9,9 @@
 
 - 👨‍🎓 Tenho 18 anos, irei começar a faculdade de  **Análise e Desenvolvimento de Sistemas** em agosto, pela faculdade IMPACTA
 - 🎓 Cursando **Fullstack Python** profissionalizante na **EBAC**  
-- 🐍 Focado em **desenvolvimento backend com Python** e fundamentos de **Cybersegurança**
-- 🧠 Atualmente praticando **dockers**, **banco de dados**, criação de **APIs e utilização de bibliotecas**
-- 💻 Meus projetos principais incluem sistemas de pokédex totalmente em Python, CRUDs com API, biblioteca, tarefas e layouts responsivos
+- 🐍 Focado em **desenvolvimento fullstack com Python** e futuro profissional de **Cybersegurança**
+- 🧠 Atualmente estudando **dockers**, **virtual machines**, **banco de dados**, criação de **APIs e utilização de bibliotecas**
+- 💻 Meus projetos principais incluem sistemas de pokédex totalmente em Python, CRUDs com API e layouts responsivos e user-friendlys
 - 📬 Fale comigo: **thiagobsoares3011@gmail.com**
 - 💼 LinkedIn: [Thiago Alves Soares](https://www.linkedin.com/in/thiago-alves-soares-453700303/)
 
