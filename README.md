@@ -32,7 +32,7 @@
 ### 📌 Projetos em Destaque
 
 - 🔹 **[POKEDEX-em-Python](https://github.com/kkthiago/POKEDEX-em-Python)** – Sistema de Pokédex em terminal para adicionar, listar, atualizar e registrar capturas de Pokémons em Python  
-- 🔹 **[CRUD-CRUD-email-nome](https://github.com/kkthiago/CRUD-CRUD-email-nome)** – CRUD de contatos com nome e email usando JavaScript e API CrudCrud  
+- 🔹 **[Mercado-de-REACT](https://github.com/kkthiago/Mercado-de-REACT)** – Aplicação React simples para cadastro e exibição de produtos. Permite adicionar, visualizar e listar itens com nome, preço e descrição.
 - 🔹 **[API-de-tarefas](https://github.com/kkthiago/API-de-tarefas)** – API RESTful simples para gerenciamento de tarefas em Python  
 - 🔹 **[Biblioteca-em-Python](https://github.com/kkthiago/Biblioteca-em-Python)** – Sistema de biblioteca com cadastro, empréstimos e devoluções em Python  
 - 🔹 **[PET-STYLE-Site-em-tailwind](https://github.com/kkthiago/PET-STYLE-Site-em-tailwind)** – Site fictício de pet shop em HTML5 e Tailwind CSS, com seções de produtos e depoimentos  
